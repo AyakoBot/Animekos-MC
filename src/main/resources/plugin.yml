@@ -1,0 +1,5 @@
+main: org.animekos.App
+name: BlankPlugin
+version: ${project.version}
+api-version: 1.21
+api: org.bukkit.plugin.java.JavaPlugin
